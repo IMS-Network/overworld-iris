@@ -4,8 +4,8 @@
     "loot": [
         {
             "type": "apple",
-            "maxAmount": 3,
-            "minAmount": 1,
+            "maxAmount": 30,
+            "minAmount": 10,
             "rarity": 3,
             "slotTypes": "STORAGE"
         },
@@ -31,15 +31,15 @@
         },
         {
             "type": "redstone",
-            "maxamount": 9,
+            "maxamount": 18,
             "minAmount": 4,
             "rarity": 9,
             "slottypes": "STORAGE"
         },
         {
             "type": "gold_ingot",
-            "maxamount": 3,
-            "minAmount": 1,
+            "maxamount": 30,
+            "minAmount": 10,
             "rarity": 9,
             "slottypes": "STORAGE"
         },
